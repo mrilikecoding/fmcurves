@@ -1,0 +1,3 @@
+ -Xms64m -Xmx256m
+freq_mod_spheres
+freq_mod_spheres.jar,core.jar,beads.jar,jl1.0.1.jar,mp3spi1.9.4.jar,tritonus_share.jar
